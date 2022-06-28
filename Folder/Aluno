@@ -1,1 +1,4 @@
-
+Uma sala com n alunos. Cada aluno possui no ano, duas notas n1 e n2,
+Ele tem q tirar 7 para passar. Gere aleatoriamente duas notas para cada aluno. 
+Calcular media, exibir as duas notas, exibir a media e dizer se o aluno passou ou nao
+		
